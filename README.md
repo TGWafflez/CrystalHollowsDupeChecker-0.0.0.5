@@ -1,4 +1,4 @@
-Note: This project has now been archived. Follow [https://github.com/TGWaffles/TheExoticsMod](https://github.com/TGWafflez/CrystalHollowsDupeChecker-0.0.0.5) for continued development of my dupe checker.
+Note: This project has now been archived. Follow [[https://github.com/TGWaffles/TheExoticsMod](https://github.com/TGWafflez/CrystalHollowsDupeChecker-0.0.0.5)](https://github.com/TGWafflez/CrystalHollowsDupeChecker-0.0.0.5) for continued development of my dupe checker.
 The dupe checker integrated into TEM is a LOT more powerful than this.
 
 CrystalHollowsDupeChecker
