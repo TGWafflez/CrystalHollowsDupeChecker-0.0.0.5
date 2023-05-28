@@ -13,8 +13,8 @@ Uses the originTag ITEM_STASH property to check whether they're duped as part of
 Join The Discord!
 Brought to you by the creator of TEM, The Exotics Mod.
 
-![image](https://github.com/TGWafflez/CrystalHollowsDupeChecker-0.0.0.5/assets/134829075/4779eca9-a754-4e81-90f6-0b3b973ac2f5)
-
 ![image](https://github.com/TGWafflez/CrystalHollowsDupeChecker-0.0.0.5/assets/134829075/6fef60e2-ab13-4c03-9813-b45d91f4e691)
+
+![image](https://github.com/TGWafflez/CrystalHollowsDupeChecker-0.0.0.5/assets/134829075/4779eca9-a754-4e81-90f6-0b3b973ac2f5)
 
 Hover-Over
